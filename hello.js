@@ -1,3 +1,3 @@
-const hello = () => "Hello World from Brazil";
-console.log(hello()) = "Hello From AXiS"
+const hello = () => "Hello World from Spain";
+console.log(hello())
 exports.hello = hello;
